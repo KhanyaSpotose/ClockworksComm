@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-11-17_1252",
-    "currentPage": "Services.html",
+    "currentPage": "Developer.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -352,7 +352,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Clockworks</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-desctop mbr-iconfont mbr-iconfont-btn\"></span>About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#slider-e\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#contacts3-c\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-desctop mbr-iconfont mbr-iconfont-btn\"></span>About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#slider-e\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Services</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#contacts3-c\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
@@ -636,7 +636,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Clockworks</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#slider-e\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#contacts3-c\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-desctop mbr-iconfont mbr-iconfont-btn\"></span>About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#slider-e\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Services</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#contacts3-c\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -770,7 +770,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Clockworks</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#slider-e\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#contacts3-c\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-desctop mbr-iconfont mbr-iconfont-btn\"></span>About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#slider-e\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Services</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"Services.html#contacts3-c\"><span class=\"mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
