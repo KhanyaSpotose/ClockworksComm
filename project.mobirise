@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-11-17_1252",
-    "currentPage": "Developer.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -199,7 +199,7 @@
               "size": 0
             }
           },
-          "title3": "WEBBA<br>WEB DESIGNER",
+          "title3": "WEBBA<br><i>WEB DESIGNER</i>",
           "caption3": "Keeping the team in check is no easy task but webba does it with a smile and make sure everyone gets work done on time and meets customer satisfaction in his web designs.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
@@ -223,7 +223,7 @@
               "size": 0
             }
           },
-          "title4": "NATHI<br>ADMIN AND ACCOUNTS",
+          "title4": "NATHI<br><i>ADMIN AND ACCOUNTS</i>",
           "caption4": "Nathi handle the business side of things making sure we are all pulling our wait and keeps this boat floating through thick and thin.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
