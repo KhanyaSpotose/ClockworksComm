@@ -1,6 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-
 
 #msg-box4-3 .mbr-header__text {
   color: #000000;
@@ -22,17 +20,45 @@
 #features1-n .mbr-section__col .mbr-header__text {
   color: #cccccc;
 }
-#menu-6 .mbr-brand__name {
-  font-size: 16px;
+#dropdown-menu-q .hide-buttons [data-button] {
+  display: none !important;
 }
-#menu-6.mbr-navbar--stuck .mbr-navbar__section {
+#dropdown-menu-q .nav .link,
+#dropdown-menu-q .dropdown-item {
+  font-size: 1.4em;
+  color: #ffffff;
+}
+#dropdown-menu-q .navbar,
+#dropdown-menu-q .dropdown-menu {
   background: #9365b8;
 }
-#menu-6 .mbr-navbar__hamburger {
-  color: #000000;
+#dropdown-menu-q .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-q .dropdown-menu a:hover,
+#dropdown-menu-q .dropdown-menu a:focus {
+  background: #8957b2;
 }
-#menu-6 .mbr-navbar__items a {
-  font-family: 'Oswald', sans-serif;
+#dropdown-menu-q .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-q .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-q .nav .link,
+#dropdown-menu-q .dropdown-item {
+  font-size: 1.4em;
+  color: #ffffff;
+}
+#dropdown-menu-q .navbar,
+#dropdown-menu-q .dropdown-menu {
+  background: #9365b8;
+}
+#dropdown-menu-q .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-q .dropdown-menu a:hover,
+#dropdown-menu-q .dropdown-menu a:focus {
+  background: #8957b2;
+}
+#dropdown-menu-q .navbar-toggler {
+  color: #ffffff;
 }
 #msg-box3-b .mbr-header .mbr-header__text {
   text-align: center;
@@ -43,21 +69,6 @@
 #msg-box3-b .mbr-article P {
   text-align: center;
 }
-#menu-6 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-6.mbr-navbar--stuck .mbr-navbar__section {
-  background: #9365b8;
-}
-#menu-6 .mbr-navbar__hamburger {
-  color: #000000;
-}
-#menu-j .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-j.mbr-navbar--stuck .mbr-navbar__section {
-  background: #9365b8;
-}
-#menu-j .mbr-navbar__hamburger {
-  color: #000000;
+#slider-e H1 {
+  color: #00ecff;
 }
